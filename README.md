@@ -1,0 +1,2 @@
+# rizkyfebriaditya
+latihan dasar JavaScript
